@@ -1,8 +1,8 @@
 {
   "files": {
     "main.css": "/faq-accordion-page-v2-react/static/css/main.ca9f82be.chunk.css",
-    "main.js": "/faq-accordion-page-v2-react/static/js/main.8aa86d8c.chunk.js",
-    "main.js.map": "/faq-accordion-page-v2-react/static/js/main.8aa86d8c.chunk.js.map",
+    "main.js": "/faq-accordion-page-v2-react/static/js/main.627a38bf.chunk.js",
+    "main.js.map": "/faq-accordion-page-v2-react/static/js/main.627a38bf.chunk.js.map",
     "runtime-main.js": "/faq-accordion-page-v2-react/static/js/runtime-main.40849511.js",
     "runtime-main.js.map": "/faq-accordion-page-v2-react/static/js/runtime-main.40849511.js.map",
     "static/js/2.905f4fd4.chunk.js": "/faq-accordion-page-v2-react/static/js/2.905f4fd4.chunk.js",
@@ -15,6 +15,6 @@
     "static/js/runtime-main.40849511.js",
     "static/js/2.905f4fd4.chunk.js",
     "static/css/main.ca9f82be.chunk.css",
-    "static/js/main.8aa86d8c.chunk.js"
+    "static/js/main.627a38bf.chunk.js"
   ]
 }
