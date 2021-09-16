@@ -1,4 +1,10 @@
-# Getting Started with Create React App
+# FAQ Accordion Page v2
+
+Frequently Asked Questions Accordion Page. Made with React and CSS.
+
+[Live Demo](https://dmitriy24s.github.io/faq-accordion-page-v2-react/)👈
+
+## Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
