@@ -1,5 +1,5 @@
 import React, { useState } from "react";
-import { AiFillCiCircle, AiOutlineMinus, AiOutlinePlus } from "react-icons/ai";
+import { AiOutlineMinus, AiOutlinePlus } from "react-icons/ai";
 
 const Question = ({ question }) => {
   const [isOpen, setIsOpen] = useState(false);
