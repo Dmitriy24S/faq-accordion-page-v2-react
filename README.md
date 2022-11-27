@@ -1,5 +1,7 @@
 # FAQ Accordion Page v2
 
+![Design preview for FAQ Accordion Page](./design-preview/design-preview.png)
+
 Frequently Asked Questions Accordion Page. Made with React and CSS.
 
 [Live Demo](https://dmitriy24s.github.io/faq-accordion-page-v2-react/)👈
